@@ -72,6 +72,8 @@ dependencies {
     implementation ("io.ktor:ktor-client-core:2.3.5")
     implementation ("io.coil-kt:coil-compose:1.3.2")
 
+    implementation ("androidx.navigation:navigation-compose:2.7.4")
+
     implementation ("androidx.hilt:hilt-navigation-compose:1.0.0")
     kapt ("com.google.dagger:hilt-android-compiler:2.48.1")
     implementation ("com.google.dagger:hilt-android:2.48.1")
